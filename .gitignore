@@ -1,0 +1,9 @@
+.DS_Store
+_notes
+log/*.log
+tmp/**/*
+db/*.sqlite3
+.svntest
+.svn
+nbproject
+config.php
